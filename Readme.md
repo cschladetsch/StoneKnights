@@ -88,9 +88,4 @@ make
 5. Open a Pull Request
 
 ## License
-Distributed under the MIT License. See `LICENSE` for more information.
-
-## Contact
-Your Name - [Your Email]
-
-Project Link: [https://github.com/yourusername/stone-knights](https://github.com/yourusername/stone-knights)
+Do what you want.
