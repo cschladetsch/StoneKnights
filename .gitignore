@@ -1,3 +1,7 @@
 /build
 /.index
 /tmp
+/CMakeCache.txt
+/CmakeFiles/*
+/_deps
+
